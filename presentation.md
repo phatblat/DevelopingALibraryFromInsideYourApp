@@ -46,6 +46,17 @@ This includes manual dependency management!
 
 ---
 
+## Swift Module Stability
+
+- Swift 5.1 (Xcode 11.0)
+- `*.framework/*.swiftmodule/*.swiftinterface`
+
+![inline](Images/compiler-error.png)
+
+https://www.donnywals.com/what-is-module-stability-in-swift-and-why-should-you-care/
+
+---
+
 ## Gradle
 
 - Builds project modules from source
